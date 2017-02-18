@@ -1,6 +1,18 @@
 # main links
 main:
+  - title: "Manifesto"
+    url: /manifesto/
   - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Demo"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Documentation"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Blog"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Wiki"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
