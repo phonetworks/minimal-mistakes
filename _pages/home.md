@@ -9,53 +9,28 @@ header:
   caption:
 excerpt: 'An open source social networking stack that can scale to your needs automagically.<!--<br /> <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/3.4.8">Latest release v3.4.8</a></small>--><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 feature_row_1:
-  - image_path: mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super Flexible"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+  - title: "Super Flexible"
+    excerpt: "It's open source. Theme it, change it, add event-driven hooks & filters, all possible."
     url: "/docs/configuration/"
     btn_label: "Learn More"
-  - image_path: mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Infinitely Scalable"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+  - title: "Infinitely Scalable"
+    excerpt: "Built to support small groups as well as massive networks with millions of members with no maintenance."
     url: "/docs/layouts/"
     btn_label: "Learn More"
-  - image_path: mm-free-feature.png
-    alt: "100% free"
-    title: "100% Free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
+  - title: "100% Free"
+    excerpt: "Did we say it's open source? Licensed under liberal Affero Public License, it is yours to use, modify or resell."
     url: "/docs/license/"
     btn_label: "Learn More"
-  - image_path: mm-customizable-feature.png
-    alt: "customizable"
-    title: "Anonymity OK"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+  - title: "Anonymity OK"
+    excerpt: "Use Tor to keep yourself, your members and your content in the shadows."
     url: "/docs/configuration/"
     btn_label: "Learn More"
-  - image_path: mm-responsive-feature.png
-    alt: "Parse/WP compatible"
-    title: "Parse/WP compatible"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+  - title: "Parse/WP compatible"
+    excerpt: "Many Wordpress themes and plug-ins work flawlessly with Pho. API supports Parse."
     url: "/docs/layouts/"
     btn_label: "Learn More"
-feature_row_2:
-  - image_path: mm-customizable-feature.png
-    alt: "customizable"
-    title: "Anonymity OK"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
-    btn_label: "Learn More"
-  - image_path: mm-responsive-feature.png
-    alt: "Parse/WP compatible"
-    title: "Parse/WP compatible"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_label: "Learn More"
-  - image_path: mm-free-feature.png
-    alt: "100% free"
-    title: "Microservices Architecture"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it, whatever!"
+  - title: "Censorship Resilient"
+    excerpt: "Run a distributed network that replicates  its data across geographies and remains censorship-resilient."
     url: "/docs/license/"
     btn_label: "Learn More"
 github:

@@ -15,7 +15,7 @@ main:
   - title: "Wiki"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Donate"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /donate/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
