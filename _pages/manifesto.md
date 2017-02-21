@@ -5,9 +5,11 @@ permalink: /manifesto
 
 ## Manifesto
 
-Pho Networks is built to give groups a platform to multiply, make and change things.
+Pho Networks is built to give groups a platform to communicate, collaborate and multiply for greater impact.
 
-Social networks are very dynamic by nature. Every time you visit the Facebook home page, it gathers content from your friends list,   
+In contrast to blogs, social networks are very dynamic by nature. The blog publishing behemoth Wordpress is a de-facto standard in blogging software, and its architecture is well suited to the needs of millions of blogs. Although with social networks, the needs and requirements, hence the social networking world requires a fundamentally different design by .
+
+Every time you visit the Facebook home page, it gathers content from your friends list,   
 
          no Wordpress, although many social networking software approach it the same way.
 The chanllenges of creating a social networking software is different than that of a blog.
