@@ -7,7 +7,23 @@ permalink: /manifesto
 
 Pho Networks is built to give groups a platform to communicate, collaborate and multiply for greater impact.
 
-In contrast to blogs, social networks are very dynamic by nature. The blog publishing behemoth Wordpress is a de-facto standard in blogging software, and its architecture is well suited to the needs of millions of blogs. Although with social networks, the needs and requirements, hence the social networking world requires a fundamentally different design by .
+In contrast to blogs, social networks are very dynamic by nature. The viewers are also the editors of the site. and the site outputs different content for different viewers.
+
+These differences make Wordpress, the blog publishing behemoth unsuitable for the needs of social networks. Extensions don't cut. Other domain-focused solutions such as .. and .. are also architecturally very similar to Wordpress.
+
+In the social networking world, the simple traditional architecture of storing/fetching content using a relational database such as MySQL, processing it and presenting it to the users in views won't scale.
+
+Neither migrating those databases to NoSQL solutions will. Data has to be architected to be ..
+
+Enter Pho. Pho is built by social networking veterans who've been working on the social networking scaling problem for more than a decade.
+
+Our solution relies on commodity hardware
+
+While we dismiss Wordpress and its alikes to solve the social networking scale problem, we greatly respect the innovations of WP and bring the same ... to the social networking world via event-driven architecture.
+
+We also acknowledge that ... Therefore Pho is designed in microservices architecture, which allows anyone to ... the right . What this means is 
+
+ The blog publishing behemoth Wordpress is a de-facto standard in blogging software, and its architecture is well suited to the needs of millions of blogs. Although with social networks, the needs and requirements, hence the social networking world requires a fundamentally different design by .
 
 Every time you visit the Facebook home page, it gathers content from your friends list,   
 
