@@ -252,3 +252,5 @@ defaults:
       layout: single
       author_profile: false
       comments: false
+
+theme: jekyll-theme-minimal
